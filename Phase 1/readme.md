@@ -1,6 +1,6 @@
 Phase 1:  Primary Corpus and Contextual Knowledge Repositories
 
-<img width="1557" height="773" alt="image" src="https://github.com/user-attachments/assets/b465257e-6c8f-4780-bbdc-fed1137f018d" />
+<img width="1557" height="773" alt="image" src="https://github.com/user-attachments/assets/2e52ea45-0c73-4bab-8e58-427398b6bd69" />
 
 
 This directory contains:
