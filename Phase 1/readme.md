@@ -1,4 +1,7 @@
-<img width="1902" height="656" alt="image" src="https://github.com/user-attachments/assets/bb153b46-2397-42f1-915d-364fbfe24dd7" />
+Phase 1:  Primary Corpus and Contextual Knowledge Repositories
+
+<img width="1557" height="773" alt="image" src="https://github.com/user-attachments/assets/b465257e-6c8f-4780-bbdc-fed1137f018d" />
+
 
 This directory contains:
  1. The original scraped and unprocessed dataset
