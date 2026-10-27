@@ -15,3 +15,6 @@ Directory contents include:
 4. RAG Triad Evaluations for Gemini LLM Judge
 5. RAG Triad Evaluations for Claude LLM Judge
 6. RAG Triad Evaluations for ChatGPT LLM Judge
+7. Adequacy Criteria Evaluations for Gemini LLM Judge
+8. Adequacy Criteria Evaluations for Claude LLM Judge
+9. Adequacy Criteria Evaluations for ChatGPT LLM Judge
