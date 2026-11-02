@@ -8,7 +8,8 @@ This directory contains:
  2. The sampled dataset used as the primary corpus in the experiment, and
  3. Link to the context notebook:  Notebook 2
  https://notebooklm.google.com/notebook/95fc3db4-f4d3-4d03-9b3b-b4c362188c42?authuser=6
-(This notebook is available for viewing, but may not be queried or copied.) 
+(This notebook is available for viewing, but may not be queried or copied.)
+4. Bibliography of sources used for Notebook 2 in markdown and as a spreadsheet.
 
 Background:
 Original data scraped from the Legacy of Slavery project at the Maryland State Archives (https://slavery.msa.maryland.gov/).  
